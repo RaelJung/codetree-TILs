@@ -12,7 +12,7 @@ public class Main {
             System.out.println("mask");
         }
         else{
-            System.out.prinln("no");
+            System.out.println("no");
         }
     }
 }
